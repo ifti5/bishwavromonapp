@@ -5,7 +5,9 @@
   "build": {
     "production": {
       "android": {
-        "buildType": "apk"
+        "buildType": "apk",
+        "node": "18.16.0",
+        "npm": "9.6.7"
       },
       "ios": {
         "simulator": false
