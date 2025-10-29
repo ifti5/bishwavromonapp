@@ -10,5 +10,11 @@
         "simulator": false
       }
     }
+  },
+  "submit": {
+    "production": {
+      "android": {},
+      "ios": {}
+    }
   }
 }
